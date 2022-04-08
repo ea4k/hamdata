@@ -1,0 +1,2 @@
+# hamdata
+Data for hamradio
